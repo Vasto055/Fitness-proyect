@@ -1,0 +1,19 @@
+body {
+  background-image: linear-gradient(to right, #000f19, #006b87);
+  margin: 0%;
+  padding: 0%;
+}
+
+.body-map__muscle path:hover {
+  fill: #bb2f2f;
+  transition: ease-in-out 0.4s;
+}
+
+.heading {
+  color: #20409a;
+  background-color: #e2e2e2 !important;
+}
+
+.XD {
+  border-radius: .5em;
+}

@@ -1,0 +1,10 @@
+body {
+    background-image: linear-gradient(to right, #000f19, #006b87);
+    margin: 0%;
+    padding: 0%;
+}
+
+h1 {
+    color: #20409a;
+    background-color: #e2e2e2 !important;
+}

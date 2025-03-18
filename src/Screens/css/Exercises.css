@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Texts {
+    font-weight: bold;
+    background-image: linear-gradient(to right, #0f0f4c, #6f4bb6);
+    color: #f80a0a;
+    padding: 10px;
+    font-style: italic;
+
+    font-family: sans-serif;
+
+}
+
+h3 {
+    background-size: cover;
+    padding: 10px;
+    color: white;
+    font-style: italic;
+
+    font-family: sans-serif;
+
+}
+
+.Texts-2 {
+    background-color: darkgrey;
+}
